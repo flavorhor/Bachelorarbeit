@@ -1,2 +1,5 @@
 # Bilder des Datnesets
-/LSB/data
+/LSB/data 
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
