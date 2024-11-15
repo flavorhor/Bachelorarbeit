@@ -3,3 +3,6 @@
 
 # Betriebssystem-spezifische Dateien
 .DS_Store
+
+#pip Sachen nicht pushen
+/venv
