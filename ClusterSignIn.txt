@@ -1,0 +1,2 @@
+IP dgx1: 192.168.101.151
+Passwort Cluster: uTzSz6pz9K
