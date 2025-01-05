@@ -1,6 +1,7 @@
 # Bilder des Datnesets
 /LSB/data 
 stegano_cnn.pth
+/createLSB/data
 
 # Betriebssystem-spezifische Dateien
 .DS_Store
