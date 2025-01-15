@@ -1,5 +1,6 @@
 # Bilder des Datnesets
-/LSB/data 
+/LSB/data_old
+/LSB/data
 stegano_cnn.pth
 /createLSB/data
 /createLSB/mnist_images
