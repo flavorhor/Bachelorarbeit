@@ -6,6 +6,8 @@ stegano_cnn.pth
 /createLSB/mnist_images
 /createLSB/data
 /createLSB/data_old
+/createLSB/datalol
+
 
 # Betriebssystem-spezifische Dateien
 .DS_Store
