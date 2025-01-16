@@ -1,12 +1,8 @@
 # Bilder des Datnesets
-/LSB/data_old
-/LSB/data
 stegano_cnn.pth
-/createLSB/data
+/createLSB/data*/
 /createLSB/mnist_images
-/createLSB/data
-/createLSB/data_old
-/createLSB/datalol
+/LSB/data*/
 
 
 # Betriebssystem-spezifische Dateien
